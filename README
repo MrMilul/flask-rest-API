@@ -1,0 +1,11 @@
+### Project:
+
+This is flask backend project to demonstrate rest Api by flask-restx package.
+
+
+### Requirements
+
+-Make a venv
+-install flask and flask-restx
+
+### You can see needed packages in the requirments.txt
